@@ -932,4 +932,39 @@ QUE = {
 	color = rgb { 0 102 255 }
 	color_ui = rgb { 0 31 77 }
 }
-
+ANH = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+FUJ = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+GUZ = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+HEB = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+HEN = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+JSU = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+JXI = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+SHD = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+HUB = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
