@@ -1,7 +1,7 @@
 characters={
 #角色名称，请自行修改(带#的均为注释，无效果，若想要效果，就删除#)
-		ANH_zhang_yi_chun={
-			name=ANH_zhang_yi_chun
+		SNX_Jiang_Dingwen={
+			name=SNX_Jiang_Dingwen
 	
 			#肖像选择（平民状态和军事状态）
 			portraits={
