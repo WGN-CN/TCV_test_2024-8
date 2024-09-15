@@ -27,3 +27,64 @@ set_popularities = {
 }
 
 add_opinion_modifier = { target = PRC modifier = hostile_status }
+
+set_autonomy = {
+	target = FUJ
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = GUZ
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = HEB
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = HEN
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = ZEJ
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = HUB
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = SIC
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = JSU
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = JXI
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = SHD
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = HNA
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = ANH
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = SNX
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = QHA
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = NXG
+	autonomous_state = autonomy_integrated_puppet
+}

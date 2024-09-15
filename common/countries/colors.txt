@@ -984,3 +984,11 @@ ZEJ = {
 	color = rgb { 89  115  180 } #255 244 190
 	color_ui = hsv { 0.18 0.3 0.9 }
 }
+QHA = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+NXG = {
+	color = rgb { 89  115  180 } #255 244 190
+	color_ui = hsv { 0.18 0.3 0.9 }
+}

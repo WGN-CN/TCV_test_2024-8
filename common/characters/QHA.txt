@@ -18,7 +18,7 @@ characters={
 				ideology=despotism
 				#特质
 				#traits={ }
-				#不可用日期（死亡日期）
+				#使其不可用日期（死亡日期）
 				#expire="1965.1.1.1"
 				#我也不知道这个是什么，但最好不要碰这个
 				id=-1
